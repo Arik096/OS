@@ -1,6 +1,4 @@
 /**
-    * Pritilata Biswas
-    * 1103017
     * CPU scheduling Algorithms
     * Non-preemptive First Come First Serve(FCFS)
     * Non-preemptive Shortest Job First(SJF)
