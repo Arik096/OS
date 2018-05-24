@@ -1,0 +1,9 @@
+4240 Access granted...Read only
+4248 Access granted...Read only
+4360 Access granted...Read only
+4420 Access granted...Read only
+Wrong memory address
+Wrong memory address
+503 Access granted...Write only
+2456 Access granted...You can Raed and Write
+Wrong memory address
